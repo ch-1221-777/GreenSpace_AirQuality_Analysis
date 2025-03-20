@@ -92,4 +92,3 @@ We still have not shown that more green space correlates with better air quality
 If such data can be obtained, we can then calculate percent green space and compare with number of good days, or total unhealthy days. That is perform a correlation analysis e.g. scatterplot or linear regression (since only two variables).   
    
 Furthermore, due to our last point about Tulare county having high percent of green space but low air quality, what can we say about the importance of other variables affecting air quality, such as agricultural or industrial activity?
-![image](https://github.com/user-attachments/assets/36206571-2dc8-4212-ae6e-290e4d581993)
